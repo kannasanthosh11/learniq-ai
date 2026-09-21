@@ -9,9 +9,7 @@ yarn-error.log*
 .env.local
 .env.*.local
 
-# Build output
-frontend/dist/
-dist/
+# Database local storage
 .data/
 
 # OS and IDE files
