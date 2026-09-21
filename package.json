@@ -1,0 +1,12 @@
+{
+  "name": "learniq-platform",
+  "version": "1.0.0",
+  "description": "LearnIQ - Adaptive Learning & Knowledge Gap Detection Platform (TENSORA 2026 EDU-01)",
+  "scripts": {
+    "dev": "npm run dev --prefix frontend",
+    "server": "npm start --prefix backend",
+    "seed": "npm run seed --prefix backend",
+    "build": "npm run build --prefix frontend"
+  },
+  "keywords": ["adaptive-learning", "bkt", "knowledge-graph", "edtech"]
+}
